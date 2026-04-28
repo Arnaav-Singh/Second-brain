@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
 // Initialize Gemini API - Direct frontend call (no Cloud Functions needed)
-const API_KEY = 'AIzaSyDF0lCUiPW0n-ZfI4eQDR1gIn_MXb5iG_8';
+
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 // Get the Gemini 1.5 Flash model for fast responses
