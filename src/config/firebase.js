@@ -5,7 +5,7 @@ import { getFunctions } from 'firebase/functions';
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDygcWMceryq6s_E6eRQ9cw2rZuVdQW1os",
+ 
   authDomain: "seconnd-brain-os.firebaseapp.com",
   projectId: "seconnd-brain-os",
   storageBucket: "seconnd-brain-os.firebasestorage.app",
